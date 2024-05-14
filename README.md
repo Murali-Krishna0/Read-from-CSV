@@ -38,6 +38,5 @@ print("No of rows",len(df.axes[0]))
 
 
 
-
-
 ## RESULT:
+Thus the program is written to read the csv file.
