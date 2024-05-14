@@ -34,6 +34,9 @@ print("No of rows",len(df.axes[0]))
 
 ## OUTPUT:
 
+![image](https://github.com/Murali-Krishna0/Read-from-CSV/assets/149054535/175d2d45-d0ff-4a4e-9e95-3a53a7156314)
+
+
 
 
 
